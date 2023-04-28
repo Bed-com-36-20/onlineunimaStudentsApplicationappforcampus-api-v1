@@ -1,0 +1,17 @@
+{
+    "compilelerOptions":{
+        "module": "commonjs",
+        "declaration":true,
+        "removeComments":true,
+        "emitDecoratorMetaData":true,
+        "experimentalDecorators":true,
+        "allowSyntheticDefaultImports":true,
+        "target": "es2017",
+        "sourceMap":true,
+        "outDir": "./dist",
+        "baseUrl": "./",
+        "incremental": true,
+        "skipLibCheck": true
+
+    }
+}
